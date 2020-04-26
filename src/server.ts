@@ -18,7 +18,7 @@ dotenv.config();
 
 // Start listening for connections, and serve static files
 const server = new WebHost({
-	// baseUrl: 'http://<ngrok-id>.ngrok.io',
+	baseUrl: 'https://kehvrhelm.herokuapp.com',
 	baseDir: resolvePath(__dirname, '../public')
 });
 
