@@ -1,0 +1,81 @@
+{
+    "none": {
+        "displayName": "None"
+    },
+	"crowna": {
+        "displayName": "Default",
+        "resourceName": "crown.glb",
+        "scale": {
+            "x": 0.08,
+            "y": 0.08,
+            "z": 0.08
+        },
+        "rotation": {
+            "x": 10,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.15,
+            "z": -0.05
+        }
+    },
+	"crownb": {
+        "displayName": "Blue",
+        "resourceName": "crown-blue.glb",
+        "scale": {
+            "x": 0.08,
+            "y": 0.08,
+            "z": 0.08
+        },
+        "rotation": {
+            "x": 10,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.15,
+            "z": -0.05
+        }
+    },
+	"crownc": {
+        "displayName": "Red",
+        "resourceName": "crown-red.glb",
+        "scale": {
+            "x": 0.08,
+            "y": 0.08,
+            "z": 0.08
+        },
+        "rotation": {
+            "x": 10,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.15,
+            "z": -0.05
+        }
+    },
+	"crownd": {
+        "displayName": "Yellow",
+        "resourceName": "crown-yellow.glb",
+        "scale": {
+            "x": 0.08,
+            "y": 0.08,
+            "z": 0.08
+        },
+        "rotation": {
+            "x": 10,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": 0.15,
+            "z": -0.05
+        }
+    }
+}
