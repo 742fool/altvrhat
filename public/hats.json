@@ -2,26 +2,7 @@
     "none": {
         "displayName": "None"
     },
-	"crowna": {
-        "displayName": "Default",
-        "resourceName": "crown.glb",
-        "scale": {
-            "x": 0.08,
-            "y": 0.08,
-            "z": 0.08
-        },
-        "rotation": {
-            "x": 10,
-            "y": 180,
-            "z": 0
-        },
-        "position": {
-            "x": 0,
-            "y": 0.15,
-            "z": -0.05
-        }
-    },
-	"crownb": {
+	"crown-blue": {
         "displayName": "Blue",
         "resourceName": "crown-blue.glb",
         "scale": {
@@ -40,7 +21,7 @@
             "z": -0.05
         }
     },
-	"crownc": {
+	"crown-red": {
         "displayName": "Red",
         "resourceName": "crown-red.glb",
         "scale": {
@@ -59,7 +40,7 @@
             "z": -0.05
         }
     },
-	"crownd": {
+	"crown-yellow": {
         "displayName": "Yellow",
         "resourceName": "crown-yellow.glb",
         "scale": {
